@@ -21,7 +21,6 @@ executive_summary = None
 
 
 client = OpenAI(
-   api_key="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"
 )
 
 
